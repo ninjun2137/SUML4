@@ -30,7 +30,7 @@ def main():
     st.image("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc32804b-93e5-4d2b-9d46-650d9149bfcf/dc8utvt-eb2ad6f4-3d2f-4346-9989-69831a4499fc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMzI4MDRiLTkzZTUtNGQyYi05ZDQ2LTY1MGQ5MTQ5YmZjZlwvZGM4dXR2dC1lYjJhZDZmNC0zZDJmLTQzNDYtOTk4OS02OTgzMWE0NDk5ZmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5ctfW_d_OeDQKaFK6wWXCXzOJpRhwMfdkYo1B-G4y3c")
 
     with overview:
-        st.title("???")
+        st.title("tytanik :D")
 
     with left:
         pclass_radio = st.radio("Klasa",[1,2,3])
